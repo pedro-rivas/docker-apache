@@ -47,5 +47,7 @@ Archivo .html:
 sudo docker cp index.html xxxx2:/opt/bitnami/apache/htdocs/index.html
 ```
 Comprobar en el navegador que el archivo se actualizó correctamente, si es así, veras el mensaje *¡Hola, mundo!*
+###### Crear una nueva imagen
+asdsad
 ## Parte 2
 ###### 2.1.- Generar volúmenes y asociarlos a un contenedor Docker generado
